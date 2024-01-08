@@ -17,7 +17,7 @@
 ## About The Project
 
 Video Demo
-- https://youtu.be/fFURVI0NjSg?si=mlvap2I9F6E_7v0A 
+- https://youtu.be/sCjn3ZRATck
 
 Tile based game called BMO Time (based on Adventure Time animated series) where the player (aka BMO) 
 explores the world, shoots enemies, and collects candies as valuable items. The main goal is to collect all candies in each level. Once all items are collected, the player automatically progresses to the next level. The player can pick up health packs, shields and powerups.
