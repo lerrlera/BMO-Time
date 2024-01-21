@@ -43,4 +43,4 @@ Sounds (sources):
 
 - Valeriya Ten - heyvalliet@gmail.com
 
-Project Link: [https://github.com/lerrlera/BMO-Time](https://github.com/NariM11/CourtFinder)
+Project Link: [https://github.com/lerrlera/BMO-Time](https://github.com/lerrlera/BMO-Time)
